@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software QA Engineer
 - 📫 How to reach me - asadpatel517@gmail.com.  Linkedin - http://www.linkedin.com/in/asad--patel
 - ## 🚀 About Me
-I am an aspirant QA Automation Enginee with having an about a 3 yeas of expreince working on various Self learning Project and a Practice Project during the QA trainning  with expertise using various Automation Frameworks.
+I am an aspirant QA Automation Enginee with having an about 3 years of expreince working on various Self learning Project and a Practice Project during the QA trainning  with expertise using various Automation Frameworks.
 -
 ## Environments and Tools
 Selenium WebDriver, Maven, TestNG, Postman, Playwright, Eclipse , Jira , Cucumber , Appium ,Xcode ,Anroid Studio,Jmeter
